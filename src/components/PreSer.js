@@ -10,6 +10,7 @@ export default function BasicStatistics() {
         fontSize={"4xl"}
         py={10}
         fontWeight={"bold"}
+        color={"#117aad"}
       >
         Servicios
       </chakra.h1>

@@ -11,7 +11,7 @@ import {
 
 export default function Client() {
   return (
-    <Box bg={"#76323f"} position={"relative"}>
+    <Box bg={"#117aad"} position={"relative"}>
       <Flex
         flex={1}
         zIndex={0}

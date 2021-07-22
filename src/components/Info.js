@@ -31,7 +31,7 @@ export default function CardWithIllustration() {
           <Heading
             textTransform={"uppercase"}
             fontSize={"3xl"}
-            color={useColorModeValue("gray.800", "gray.200")}
+            color={"#117aad"}
           >
             Contactanos
           </Heading>
