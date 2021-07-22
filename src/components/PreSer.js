@@ -1,15 +1,6 @@
 import React from "react";
 
-import {
-  Box,
-  chakra,
-  SimpleGrid,
-  Stat,
-  StatLabel,
-  StatNumber,
-  Image,
-  useColorModeValue,
-} from "@chakra-ui/react";
+import { Box, chakra, Image } from "@chakra-ui/react";
 
 export default function BasicStatistics() {
   return (

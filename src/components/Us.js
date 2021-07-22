@@ -7,7 +7,6 @@ import {
   Flex,
   SimpleGrid,
   useColorModeValue,
-  Text,
 } from "@chakra-ui/react";
 
 const testimonials = [
